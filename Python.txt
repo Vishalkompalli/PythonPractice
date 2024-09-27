@@ -1,0 +1,19 @@
+1. Variables, data types, and operators: Proficiency in using integers, floats, strings, and basic operations is essential.
+    If-else, for, while loops
+    Functions
+    Lambda Functions
+
+2. Basic questions on Lists, tupples, dictionaries
+    Lists for dynamic arrays.
+    Tuples for fixed-size collections.
+    Dictionaries for key-value mappings.
+    List comprehensions
+
+3. File Handling
+
+4. Error Handling
+    try, except, and finally
+
+5. Scripting for Automation
+    libraries like os, subprocess, or shutil
+
