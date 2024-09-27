@@ -1,4 +1,5 @@
-1. Variables, data types, and operators: Proficiency in using integers, floats, strings, and basic operations is essential.
+1. Basics 
+Variables, data types, and operators: Proficiency in using integers, floats, strings, and basic operations is essential.
     If-else, for, while loops
     Functions
     Lambda Functions
