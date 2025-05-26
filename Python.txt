@@ -18,3 +18,4 @@ Variables, data types, and operators: Proficiency in using integers, floats, str
 5. Scripting for Automation
     libraries like os, subprocess, or shutil
 
+6. Pandas
