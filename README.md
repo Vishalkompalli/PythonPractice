@@ -1,4 +1,4 @@
-#Python Practice
+# Python Practice
 
 1. Basics 
 Variables, data types, and operators: Proficiency in using integers, floats, strings, and basic operations is essential.
