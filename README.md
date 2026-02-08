@@ -21,3 +21,5 @@ Variables, data types, and operators: Proficiency in using integers, floats, str
     libraries like os, subprocess, or shutil
 
 6. Pandas
+   
+Hackerrank Python solutions
